@@ -16,8 +16,8 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:git://github.com/loizosloizou94/jweaver.git</connection>
-        <url>https://github.com/loizosloizou94/jweaver/tree/main/</url>
+        <connection>scm:git:git://github.com/org-jweaver/crawler.git</connection>
+        <url>https://github.com/org-jweaver/crawler/tree/main/</url>
     </scm>
     <developers>
         <developer>
